@@ -19,4 +19,14 @@ export default class ProductModel {
     const { insertId } = dataInserted;
     return { id: insertId, ...product };
   }
+
+  public async getByUserName(username: string): Promise<User | null> {
+    const query = 'SELECT * FROM Trybesmith.users WHERE username = ?';
+    const values = [username];
+
+    const [data] = await this.connection.execute(query, values);
+    const [user] = data as User[];
+
+    return user || null;
+  }
 }
