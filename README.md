@@ -1,5 +1,6 @@
 # ⚔️ Projeto TrybeSmith
-Este projeto é um exercício prático proposto pela escola de programação Trybe, onde o objetivo é criar um sistema de cadastro de produtos utilizando React e Redux.
+
+Esse projeto, desenvolvi um CRUD (Create, Read, Update e Delete) de itens medievais, no formato de uma API, utilizando Typescript.
 
 ## ⚙️ Funcionalidades
 A aplicação possui as seguintes funcionalidades:
@@ -32,12 +33,6 @@ Inicie a aplicação:
 ```
 npm start
 ```
-
-## 💻 Tecnologias utilizadas
-- React
-- Redux
-- JavaScript
-- CSS
 
 ## 💪 Contribuindo
 Contribuições são sempre bem-vindas! Siga os seguintes passos para contribuir:
