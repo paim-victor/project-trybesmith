@@ -1,7 +1,7 @@
-# Projeto TrybeSmith
+# ⚔️ Projeto TrybeSmith
 Este projeto é um exercício prático proposto pela escola de programação Trybe, onde o objetivo é criar um sistema de cadastro de produtos utilizando React e Redux.
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 A aplicação possui as seguintes funcionalidades:
 
 - Listagem de produtos cadastrados
@@ -10,7 +10,7 @@ A aplicação possui as seguintes funcionalidades:
 - Exclusão de produtos
 
 
-## Instalação
+## ⏯️ Instalação
 Para rodar a aplicação em sua máquina, siga os seguintes passos:
 
 Clone o repositório:
@@ -33,13 +33,13 @@ Inicie a aplicação:
 npm start
 ```
 
-## Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 - React
 - Redux
 - JavaScript
 - CSS
 
-## Contribuindo
+## 💪 Contribuindo
 Contribuições são sempre bem-vindas! Siga os seguintes passos para contribuir:
 
 1) Faça um fork deste repositório
@@ -60,5 +60,5 @@ git push origin my-feature
 
 5) Crie um novo Pull Request
 
-## Licença
+## 📰 Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
